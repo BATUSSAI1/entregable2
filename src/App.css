@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/828/291/desktop-wallpaper-bliss-windows-xp-windows-xp-night.jpg');
+    background-position: center;
+    background-size: cover;
+}
+

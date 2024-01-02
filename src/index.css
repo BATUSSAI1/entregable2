@@ -1,0 +1,39 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Arvo', serif;
+}
+
+body{
+    margin: 0;
+}
+
+h1,h2,h3,p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+img{
+    display: block;
+    width: 150px;
+}
+
+input, button{
+    font-family: 'Arvo', serif;
+}
+
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  }
